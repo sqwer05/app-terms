@@ -2,7 +2,7 @@
 
 **Stand: 08.11.2026**
 
-Diese Nutzungsbedingungen („Bedingungen") regeln die Nutzung der Anwendung „[App-Name]" („App"), die von [Vorname Nachname], [Straße Hausnummer], [PLZ Ort], Deutschland („Anbieter") betrieben wird.
+Diese Nutzungsbedingungen („Bedingungen") regeln die Nutzung der Anwendung „SWA3058E_2027" („App"), die von Thorsten Nebel, 96176 Pfarrweisach, Deutschland („Anbieter") betrieben wird.
 
 ## 1. Beschreibung der App
 
@@ -46,8 +46,8 @@ Es gilt deutsches Recht. Sollten einzelne Bestimmungen unwirksam sein, bleibt di
 
 ## Kontakt
 
-[Vorname Nachname]
-[E-Mail-Adresse]
+Thorsten Nebel
+anvil-computer@web.de
 
 ---
 
