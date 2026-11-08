@@ -2,7 +2,7 @@
 
 **Last updated: 2026-11-08**
 
-These Terms and Conditions ("Terms") govern the use of the application "[App-Name]" ("App"), operated by [First name Last name], [Street and number], [Postal code, city], Germany ("Provider").
+These Terms and Conditions ("Terms") govern the use of the application "SWA3058E_2027" ("App"), operated by Thorsten Nebel, 96176 Pfarrweisach, Germany ("Provider").
 
 ## 1. Description of the App
 
@@ -46,8 +46,8 @@ German law applies. Should individual provisions be invalid, the validity of the
 
 ## Contact
 
-[First name Last name]
-[Email address]
+Thorsten Nebel
+anvil-computer@web.de
 
 ---
 
