@@ -2,14 +2,13 @@
 
 **Stand: 08.11.2026**
 
-Diese Datenschutzerklärung informiert über die Verarbeitung personenbezogener Daten bei Nutzung der Anwendung „[App-Name]" („App"), betrieben von [Vorname Nachname], [Straße Hausnummer], [PLZ Ort], Deutschland („Anbieter", „Verantwortlicher").
+Diese Datenschutzerklärung informiert über die Verarbeitung personenbezogener Daten bei Nutzung der Anwendung „SWA3058E_2027" („App"), betrieben von Thorsten Nebel, 96176 Pfarrweisach, Deutschland („Anbieter", „Verantwortlicher").
 
 ## 1. Verantwortlicher
 
-[Vorname Nachname]
-[Straße Hausnummer]
-[PLZ Ort], Deutschland
-E-Mail: [E-Mail-Adresse]
+Thorsten Nebel  
+96176 Pfarrweisach, Deutschland
+E-Mail: anvil-computer@web.de
 
 ## 2. Welche Daten werden verarbeitet?
 
@@ -64,8 +63,8 @@ Diese Datenschutzerklärung kann bei Änderungen der App angepasst werden. Die j
 
 ## Kontakt
 
-[Vorname Nachname]
-[E-Mail-Adresse]
+Thorsten, Nebel
+anvil-computer@web.de
 
 ---
 
