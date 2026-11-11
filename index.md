@@ -1,4 +1,4 @@
-# Nutzungsbedingungen – [App-Name]
+# Nutzungsbedingungen – SWA3058E_2027
 
 **Stand: 08.11.2026**
 
